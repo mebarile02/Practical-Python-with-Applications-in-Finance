@@ -99,4 +99,4 @@ def doWaterfall(lp, ss):
             return lst
 
     else:
-        raise TypeError('Please enter a valid loan pool and Structured Securitie
+        raise TypeError('Please enter a valid loan pool and Structured Securities Object.')
